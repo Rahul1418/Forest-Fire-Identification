@@ -39,20 +39,14 @@ This project focuses on identifying forest fires from UAV (Unmanned Aerial Vehic
 
 ## 🖼️ Screenshots
 
-### Initial Screen
-- ![Initial Screen](path/to/screenshot1.png)
-- **Action**: Click on ‘Upload UAV Forest Fire Video’.
-
-### Video Upload
-- ![Video Upload](path/to/screenshot2.png)
-- **Action**: Select and upload your video, then click ‘Open’.
-
-### Processing and Detection
-- ![Processing](path/to/screenshot3.png)
-- **No Fire Detected**: Black screen with no fire movement.
-
-- ![Fire Detected](path/to/screenshot4.png)
-- **Fire Detected**: Movement and fire detection shown in the black window.
+![image](https://github.com/user-attachments/assets/4b7716b8-338d-4e87-b72a-73171de05385)
+![image](https://github.com/user-attachments/assets/794a89fe-0ad2-46b5-acfa-aedaa614c734)
+![image](https://github.com/user-attachments/assets/3afce7a2-fe27-48eb-a28d-77759997a2c5)
+![image](https://github.com/user-attachments/assets/5b0cefbb-b885-40c8-b2f2-bbaf70a2c059)
+![image](https://github.com/user-attachments/assets/2a0f8619-4b8c-4567-817d-9f9ef2046337)
+![image](https://github.com/user-attachments/assets/f407e75c-b623-427c-b3d6-a13d8c8cb90b)
+![image](https://github.com/user-attachments/assets/1b589875-2929-4806-a0c7-09e281bad645)
+![image](https://github.com/user-attachments/assets/6eb8ab77-ad18-4b89-a18d-328a0c4c9f57)
 
 ## ⚙️ Technologies
 - **Programming Language**: Python
