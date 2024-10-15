@@ -53,7 +53,7 @@ This project focuses on identifying forest fires from UAV (Unmanned Aerial Vehic
 - **Libraries**: OpenCV, NumPy
 
 ## 📩 Contact
-- For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+- For any questions or feedback, please reach out to [your.email@example.com](mailto:ry141418@gmail.com).
 
 ## 📄 License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
